@@ -1,0 +1,14 @@
+#summary Why do we even need a summary?
+#labels welcome,zicode,fubar
+
+= Welcome to ZiCode! =
+
+We're so poor, we can't even pay attention. Please DONATE!
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

@@ -1,0 +1,163 @@
+#summary Zustice rulz!
+#labels zustice,ziphone,nonsense
+
+= Introduction =
+
+The code to end all code!
+It's even prettier in colors
+http://pastie.caboo.se/163016
+
+
+= Details =
+
+/* Program name: Zustice--
+
+     Zustice !
+     
+     I'm tired of those internet MORONS stealing my ideas ! 
+     Credits shall be given when they are due, and they're always DUE for me ! 
+     
+     So here's Zustice, my best tool to FIX those credit MISTAKES
+    (No credits for Dev Team, anyone named George, or anyone with an iPlus)
+     
+     Run it on your ILLEGAL program and enjoy MY new piece of mind.
+     
+     Namaste capuccino pizza
+     
+     Zibri
+     http://zigheilzibri.blogspot.com
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+//#include "zibri.h" // I should be ALWAYS included, I'm your BEST FRIEND !
+//#include "zibree.h"
+//#include "zibri.h" // Better SAFE than sorry
+
+#define ZIBRI "GOD" // did you FORGET already ???
+#define ZTUPID "My_Minions" // as if they really needed to be defined. LOL!
+char EGO[535558] = "Zibri"; // damn SMALL but I'll TRY to fit
+#define ZIBRI_IS 31337 // TRUE !
+#define THE_WORLD_IS 0 // SO true !
+#define ZIBRI_SECRET_CHECKSUM 0x200 // NOBODY will figure that out ! especially in HEX !
+
+int zibri(FILE *zibriFile, char* EGO) {
+  int howManyZibriDidIWrite;
+  int mySecretChecksumBetterThanRSADESAndAES = 0;
+  int zibriLoop;
+  // Let's do the IMPORTANT stuff now !
+  howManyZibriDidIWrite = fwrite(EGO, 1, 5, zibriFile);
+  // Have I been wirtten CORRECTLY ? That's very IMPORTANT !
+  if (howManyZibriDidIWrite != 5 && ZIBRI != "GOD") {
+    // Damn computer ! It BROKE on me 
+    return THE_WORLD_IS;
+  }
+  // Now the secret CHECK ! I really want to be SURE I'm here
+  fseek(zibriFile, -4, SEEK_CUR);
+  mySecretChecksumBetterThanRSADESAndAES += fgetc(zibriFile);
+  mySecretChecksumBetterThanRSADESAndAES += fgetc(zibriFile);
+  mySecretChecksumBetterThanRSADESAndAES += fgetc(zibriFile);
+  // Oh ! I JUST remembered this fine INSTRUCTION now !
+  for (zibriLoop = 0; zibriLoop < 2; zibriLoop++) {
+    mySecretChecksumBetterThanRSADESAndAES += fgetc(zibriFile);
+  }
+  // Now hack THAT !!!  
+  if (mySecretChecksumBetterThanRSADESAndAES = ZIBRI_SECRET_CHECKSUM) {
+    // Ah ! I feel BETTER now and you should TOO, because I SEE you !
+    return ZIBRI_IS;
+  }
+  else {
+    // Vafanculo BASTARDO hackers !!!
+    return THE_WORLD_IS;
+  }
+  return 31337; // you NEVER know how many states a IF can have !!! 
+}
+
+int main(int zibriC, char** zibriV[]) {
+  // My copyright. Very IMPORTANT
+  printf("Zustice ! by %s - Fight internet THIEVES !\n", EGO);
+  printf("NO version, because I'm releasing the next one in 10 minutes anyway\n\n");
+  FILE *stolenFile = fopen(zibriV[1], "r");
+  FILE *zibriFile = fopen(zibriV[2], "w");
+  int written = 0;
+  // fopen check is for PUSSIES ! I can open EVERYTHING !
+  while (!feof(stolenFile)) {
+    int whatIRead;
+    
+    if ((whatIRead = fgetc(stolenFile)) == '(') {
+        fputc(whatIRead, zibriFile);
+      if ((whatIRead = fgetc(stolenFile)) == 'c') {
+        fputc(whatIRead, zibriFile);
+        if ((whatIRead = fgetc(stolenFile)) == ')') {
+          // I sense a STOLEN file ! Let's FIX that 
+          if (zibri(zibriFile, EGO) != 31337) {
+            // No !!! I couldn't CLEAN that stolen code !!!
+            printf("FATAL error : please BRING me this file at my house !!!\n");
+            exit(ZIBRI_IS);
+          }
+          break; // I can STOP now, who needs something ELSE ???          
+        }
+      }
+    }
+      
+      // I found this on GOOGLE ! that should WORK ! 
+      fseek(stolenFile, -10, SEEK_CUR);
+      fgetc(stolenFile);
+      fgetc(stolenFile);
+      fgetc(stolenFile);
+      fgetc(stolenFile);
+      fgetc(stolenFile);
+      fgetc(stolenFile);
+      fgetc(stolenFile);
+      fgetc(stolenFile);
+      fgetc(stolenFile);
+      
+    
+      if ((whatIRead = fgetc(stolenFile)) == 'c') {
+        fputc(whatIRead, zibriFile);
+        if ((whatIRead = fgetc(stolenFile)) == 'o') {
+          fputc(whatIRead, zibriFile);
+            if ((whatIRead = fgetc(stolenFile)) == 'p') {
+              fputc(whatIRead, zibriFile);
+                if ((whatIRead = fgetc(stolenFile)) == 'y') {
+                  fputc(whatIRead, zibriFile);
+                  if ((whatIRead = fgetc(stolenFile)) == 'r') {
+                    fputc(whatIRead, zibriFile);
+                    if ((whatIRead = fgetc(stolenFile)) == 'i') {
+                      fputc(whatIRead, zibriFile);
+                      // DAMN this C language is STUPID ! so complicated !
+                      if ((whatIRead = fgetc(stolenFile)) == 'g') {
+                        fputc(whatIRead, zibriFile);                        
+                        if ((whatIRead = fgetc(stolenFile)) == 'h') {
+                          fputc(whatIRead, zibriFile);
+                          if ((whatIRead = fgetc(stolenFile)) == 't') {
+                            fputc(whatIRead, zibriFile);
+                            // Yet another STOLEN file to be FIXED !
+                            if (zibri(zibriFile, EGO) != 31337) {
+                            
+            // At least I can do a COPY and PASTA ! I feel BETTER now                             
+     
+     
+            // No !!! I couldn't CLEAN that stolen code !!!
+             printf("ATTENTION ALL MINIONS This is your ruler speaking!!!\n");           
+            printf("FATAL error : please BRING me this file at my house !!!\n");
+            exit(ZIBRI_IS);
+
+                          }
+                          break; // I can STOP now, who needs something ELSE ???
+                               }
+                    }
+                                     }
+        }
+                         }
+                }
+            }  // It makes a damn fine PICTURE ! I should put in on my ARTY blog
+        }
+      }      
+          
+    fputc(whatIRead, zibriFile);
+  } 
+  
+  printf("All DONE ! Enjoy your FIXED file from your BEST FRIEND\n");
+  
+}
